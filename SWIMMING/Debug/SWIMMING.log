@@ -1,0 +1,4 @@
+﻿  SWIMMING.cpp
+h:\2616 차수\swimming\swimming.cpp(17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  SWIMMING.vcxproj -> H:\2616 차수\Debug\SWIMMING.exe
+  SWIMMING.vcxproj -> H:\2616 차수\Debug\SWIMMING.pdb (Full PDB)
